@@ -8,6 +8,7 @@ elements['nitrogen'] = 8
 print elements
 elements['lithium'] = 100 # this changes the value associated lithium since now exists
 print elements
+
 # Define a Dictionary, population,
 # that provides information
 # on the world's largest cities.
@@ -33,3 +34,5 @@ elements['He'] = {'name': 'Helium', 'number': 2, 'weight': 4.002602, 'nobel gas'
 print elements['H']
 print elements['H']['name']
 print elements['H']['weight']
+
+# making some changes for Udacity
